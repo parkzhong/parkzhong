@@ -25,7 +25,7 @@
 ```python
 parkzhong = {
     "status":     "Year 2 Student in SE🎓",
-    "languages":  ["Python", "C/C++", "JavaScript", "TypeScript", "Java", "Kotlin"],
+    "languages":  ["Python", "C/C++", "JavaScript", "TypeScript", "Java",
     "frameworks": ["React", "Next.js"],
     "currently":  "Exploring new technologies every day",
     "interests":  ["🏀 Basketball", "⚽ Football", "🎮 Valorant", "🕹️ eFootball"],
