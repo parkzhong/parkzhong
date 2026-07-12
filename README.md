@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+%26+Lifelong+Learner;Building+things%2C+one+line+at+a+time.;NBA+%7C+Football+%7C+Valorant+%7C+eFootball" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+%26+from Malaysia;Building+things%2C+one+line+at+a+time.;NBA+%7C+Football+%7C+Valorant+%7C+eFootball" alt="Typing SVG" />
 </a>
 
 <br/><br/>
