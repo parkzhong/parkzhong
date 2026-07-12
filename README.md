@@ -24,11 +24,11 @@
 
 ```python
 parkzhong = {
-    "status":     "Student & Learner 🎓",
+    "status":     "Year 2 Student in SE🎓",
     "languages":  ["Python", "C/C++", "JavaScript", "TypeScript", "Java", "Kotlin"],
     "frameworks": ["React", "Next.js"],
     "currently":  "Exploring new technologies every day",
-    "interests":  ["🏀 NBA", "⚽ Football", "🎮 Valorant", "🕹️ eFootball"],
+    "interests":  ["🏀 Basketball", "⚽ Football", "🎮 Valorant", "🕹️ eFootball"],
     "goal":       "Build something meaningful",
 }
 ```
