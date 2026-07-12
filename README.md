@@ -63,13 +63,6 @@ parkzhong = {
 
 <div align="center">
 
-<a href="https://github.com/parkzhong">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=parkzhong&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9ECFFF&icon_color=9ECFFF&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkzhong&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=9ECFFF&text_color=c9d1d9&langs_count=8"/>
-</a>
-
-<br/>
-
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=parkzhong&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=9ECFFF&ring=9ECFFF&fire=FF9F43&currStreakLabel=9ECFFF" alt="GitHub Streak"/>
 </a>
