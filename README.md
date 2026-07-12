@@ -1,18 +1,15 @@
 <div align="center">
 
-<!-- Animated greeting banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=header&text=parkzhong&fontSize=42&fontColor=e0e0e0&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+%26+from Malaysia;Building+things%2C+one+line+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+from+MMU;Building+things%2C+one+line+at+a+time.;NBA+%7C+Football+%7C+Valorant+%7C+eFootball" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Profile views & social badges -->
 <img src="https://komarev.com/ghpvc/?username=parkzhong&style=flat-square&color=9ECFFF&label=Profile+Views" alt="Profile Views"/>
 &nbsp;
 <a href="https://github.com/parkzhong?tab=followers">
