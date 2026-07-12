@@ -7,7 +7,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+%26+from Malaysia;Building+things%2C+one+line+at+a+time.;NBA+%7C+Football+%7C+Valorant+%7C+eFootball" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=9ECFFF&center=true&vCenter=true&width=500&lines=Student+%26+from Malaysia;Building+things%2C+one+line+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -45,12 +45,10 @@ parkzhong = {
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
 **Frameworks & Tools**
 
@@ -58,7 +56,6 @@ parkzhong = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -84,18 +81,6 @@ parkzhong = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=parkzhong&theme=algolia&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="Trophies"/>
-</a>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -110,9 +95,20 @@ parkzhong = {
 
 <div align="center">
 
-<!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
 
 <sub>Crafted by <a href="https://github.com/parkzhong">parkzhong</a></sub>
 
 </div>
+
+---
+
+## 🤝 Connect With Me
+
+<div> 
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/hollowpurple05)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/park_zhong)
+
+</div>
+
