@@ -108,25 +108,11 @@ parkzhong = {
 
 ---
 
-## 🎮 Beyond the Code
-
-> *"When I'm not coding, I'm probably watching an NBA game, following football, or grinding ranked in Valorant."* 🏀⚽🎮
-
-<div align="center">
-
-| 🏀 NBA | ⚽ Football | 🎮 Valorant | 🕹️ eFootball |
-|:------:|:----------:|:-----------:|:------------:|
-| Hoops fan | The beautiful game | Climbing the ranks | Virtual pitch |
-
-</div>
-
----
-
 <div align="center">
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=80&section=footer" width="100%"/>
 
-<sub>Crafted with ❤️ by <a href="https://github.com/parkzhong">parkzhong</a></sub>
+<sub>Crafted by <a href="https://github.com/parkzhong">parkzhong</a></sub>
 
 </div>
