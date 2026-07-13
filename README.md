@@ -30,6 +30,8 @@ parkzhong = {
     "currently":  "Exploring new technologies every day",
     "interests":  ["🏀 Basketball", "⚽ Football", "🎮 Valorant", "🕹️ eFootball"],
     "goal":       "Build something meaningful",
+
+    "I prompt engineer a lot but I'm also trying to learn how to code without using AI" 
 }
 ```
 
